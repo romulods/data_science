@@ -3,7 +3,7 @@
 </p>
 
 # Romulo Dantas
-<sub>*Analista de Tecnologia da Informação na DATAPREV</sub>
+<sub>* Analista de Tecnologia da Informação na DATAPREV</sub>
 
 Um entusiasta no mundo da Ciência de Dados iniciando o portfólio pessoal para adquirir experiências.
 
