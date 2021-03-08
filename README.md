@@ -15,7 +15,7 @@ Um entusiasta no mundo da Ciência de Dados iniciando o portfólio pessoal para 
 
 
 ## Projetos:
-Veja os artigos e tutoriais publicados:
+Veja os tutoriais publicados:
 
 * **Em breve:** 
 
